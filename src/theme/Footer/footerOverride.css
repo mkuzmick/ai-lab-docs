@@ -1,0 +1,10 @@
+/* Hide footer by default, only reveal it when scrolled to bottom */
+.footer--override-hidden {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.footer--override-visible {
+  visibility: visible;
+  pointer-events: auto;
+}

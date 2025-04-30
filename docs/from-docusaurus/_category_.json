@@ -1,0 +1,8 @@
+{
+  "label": "from docusaurus",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "stuff that docusaurus puts in here."
+  }
+}
