@@ -1,0 +1,50 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Inter', system-ui, Arial, sans-serif;
+  --ifm-font-family-monospace: 'Source Code Pro', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', monospace;
+  --ifm-heading-font-family: 'Inter', system-ui, Arial, sans-serif;
+  --ifm-heading-font-weight: 900;
+  --ifm-font-weight-normal: 500;
+  --ifm-color-primary: #0d4d6e;
+  --ifm-color-primary-dark: #0c4563;
+  --ifm-color-primary-darker: #0b415e;
+  --ifm-color-primary-darkest: #09364d;
+  --ifm-color-primary-light: #0e5579;
+  --ifm-color-primary-lighter: #0f597e;
+  --ifm-color-primary-lightest: #11648f;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4cafc8;
+  --ifm-color-primary-dark: #3aa3be;
+  --ifm-color-primary-darker: #379ab3;
+  --ifm-color-primary-darkest: #3697af;
+  --ifm-color-primary-light: #61b8ce;
+  --ifm-color-primary-lighter: #6cbdd2;
+  --ifm-color-primary-lightest: #8bcbdb;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+body, html {
+  font-family: var(--ifm-font-family-base);
+  font-weight: var(--ifm-font-weight-normal);
+}
+
+p {
+  margin-bottom: .5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: var(--ifm-heading-font-weight);
+}
