@@ -151,8 +151,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'New Tips and Tricks',
+              to: '/moves/new-tips-and-tricks/kevin-madleine-new-tips-and-tricks',
             },
           ],
         },
@@ -187,7 +187,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Bok AI Lab.`,
     },
     prism: {
       theme: prismThemes.github,
