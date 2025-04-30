@@ -1,7 +1,3 @@
-Great! I’ll compile a broad overview of major AI agent frameworks, including both open- and closed-source options, Python and JavaScript ecosystems, and frameworks that are tied to a single API (like OpenAI's SDK) as well as multi-LLM frameworks. I'll compare their features, extensibility, supported LLMs, and typical use cases.
-
-I'll get started and share the overview with you shortly.
-
 # AI Agent Frameworks: A Comprehensive Comparison
 
 AI agent frameworks provide the building blocks to develop **“agentic” AI applications** – systems where Large Language Models (LLMs) can perceive, reason, and act (e.g. via tools or APIs) to accomplish goals. Below we compare major frameworks across open-source and closed-source options, in both Python and JavaScript, including those tied to a single provider and those supporting multiple LLM/API vendors. Key attributes like primary language, source model, supported LLMs, features (memory, tools, multi-agent, etc.), architecture, use cases, and extensibility are detailed for each. A summary table is also provided for quick reference.

@@ -1,5 +1,3 @@
-Awesome, I'll pull together the latest tips and ideas around "vibe coding" for AI development teams (focused on JS and Python ecosystems) and weave your bullets into a structured, engaging, Medium-style guide. I'll make it accessible but substantial enough to serve technical teams of mixed backgrounds. I'll get started and keep you posted!
-
 # AI Pair Programming and Vibe Coding: A Team Guide to LLM-Driven Development
 
 ## Introduction  
