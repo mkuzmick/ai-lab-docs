@@ -85,3 +85,5 @@ then Figma is unusually well-positioned. It already owns the live-multiplayer do
 But software history tells us that bridges collapse, markets swerve, and “first-purpose” inertia cuts both ways. The next 18 months will reveal whether Figma’s canvas can stretch into a full-stack stage, or whether we’ll be lured elsewhere by a different vibe.
 
 *Which choke-point do **you** think matters most—and which worldview would you trust to build your next everything?*
+
+_- created by o3_
