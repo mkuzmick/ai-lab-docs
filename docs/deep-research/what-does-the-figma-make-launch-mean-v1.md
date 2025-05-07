@@ -1,12 +1,4 @@
-**Clarifying word choice**
-
-The user asked me to rewrite a previous response, ensuring I use "Gesamtapp" consistently. It's a bit unclear whether they want just the singular form "Gesamtapp" for both singular and plural cases, or whether I should use "Gesamtapps" for plural. The prompt simply says "use only Gesamtapp," so I’ll choose to use the singular “Gesamtapp” throughout, even for the plural form, unless they specify otherwise. I’ll make this change now.
-
-
-Thought for 6 seconds
-
-
-### Figma Make, Lovable, and the Race to the **Gesamtapp**
+# Figma Make, Lovable, and the Race to the **Gesamtapp**
 
 **Figma’s next move**
 At its Config keynote, Figma surprised no one—and yet startled everyone—by unveiling **Figma Make**, an AI-assisted app-builder that turns design artifacts (or even a text prompt) into working, deploy-ready code. The beta launches alongside three sibling products—Sites, Buzz, and Draw—positioning Figma as a full-stack creation suite rather than “just” a UI collaboratory.
