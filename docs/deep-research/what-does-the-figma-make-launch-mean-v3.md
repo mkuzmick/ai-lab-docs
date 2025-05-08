@@ -1,3 +1,9 @@
+---
+title: The Rise of the “Gesamtapp”: Toward a Unified Creative Platform
+description: An exploration of the emerging trend of unified creative platforms—“Gesamtapps”—that merge design, prototyping, coding, and publishing, with Figma Make as a case study and historical context from Wagner to modern AI.
+image: https://files.slack.com/files-pri/T0HTW3H0V-F08RR5WHMDF/figma-on-stage.jpg?pub_secret=174eb8c0ec
+---
+
 # The Rise of the “***Gesamtapp***”: Toward a Unified Creative Platform
 
 ![alt text](https://files.slack.com/files-pri/T0HTW3H0V-F08RR5WHMDF/figma-on-stage.jpg?pub_secret=174eb8c0ec)
